@@ -1,0 +1,9 @@
+INSERT INTO customer(id,name,email,password)VALUES (1,'Temam Hashim','temam@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (2,'Sara Jemal','sara@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (3,'Kemal Abdu','kemal@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (4,'Hana Tibebu','hana@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (5,'Bini Man','bini@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (6,'Ayne Ayne','ayne@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (7,'Yared Negu','yared@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (8,'Muhe Muhe','muhe@gmail.com','pwd123');
+INSERT INTO customer(id,name,email,password)VALUES (9,'Nanu Na','nanu@gmail.com','pwd123');
